@@ -21,7 +21,7 @@ Created a phishing site hosted on an Azure Virtual Machine to simulate real-worl
 
 <p align="center">
 Create an Azure Virtual Machine for hosting the phishing site: <br/>
-<img src="https://example.com/vm-setup.png" height="80%" width="80%" alt="Setting up Azure VM"/>
+<img src="images/create a vm"/>
 <br />
 <br />
 Configure necessary ports (HTTP, HTTPS, SSH) for remote access:  <br/>
