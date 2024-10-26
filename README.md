@@ -54,5 +54,5 @@ Send phishing email containing the phishing link and interact with the page: <br
 <br />
 <br />
 Review captured credentials on the virtual machine to observe results: <br/>
-<img src="https://example.com/captured-credentials.png" height="80%" width="80%" alt="Captured Credentials"/>
+<img src="images/captured credentials"/>
 </p>
