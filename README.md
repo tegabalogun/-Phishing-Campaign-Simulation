@@ -20,31 +20,38 @@ Created a phishing site hosted on an Azure Virtual Machine to simulate real-worl
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an Azure Virtual Machine for hosting the phishing site: <br/>
+<img src="https://example.com/vm-setup.png" height="80%" width="80%" alt="Setting up Azure VM"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure necessary ports (HTTP, HTTPS, SSH) for remote access:  <br/>
+<img src="https://example.com/configure-ports.png" height="80%" width="80%" alt="Configuring VM Ports"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Apache Web Server and upload phishing page code: <br/>
+<img src="https://example.com/apache-install.png" height="80%" width="80%" alt="Installing Apache"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up a storage account for hosting the logo image used on the phishing page: <br/>
+<img src="https://example.com/storage-setup.png" height="80%" width="80%" alt="Azure Storage Account Setup"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable blob anonymous access in the storage account for public visibility of images: <br/>
+<img src="https://example.com/enable-blob-access.png" height="80%" width="80%" alt="Enabling Blob Access"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add the logo URL to the phishing page and test the display: <br/>
+<img src="https://example.com/add-logo.png" height="80%" width="80%" alt="Adding Logo to Phishing Page"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create the `process.php` file to handle credential capture: <br/>
+<img src="https://example.com/process-php.png" height="80%" width="80%" alt="Credential Capture Script"/>
+<br />
+<br />
+Send phishing email containing the phishing link and interact with the page: <br/>
+<img src="https://example.com/phishing-email.png" height="80%" width="80%" alt="Phishing Email"/>
+<br />
+<br />
+Review captured credentials on the virtual machine to observe results: <br/>
+<img src="https://example.com/captured-credentials.png" height="80%" width="80%" alt="Captured Credentials"/>
 </p>
-
