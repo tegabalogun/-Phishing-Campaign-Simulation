@@ -42,7 +42,7 @@ Enable blob anonymous access in the storage account for public visibility of ima
 <br />
 Add the logo URL to the phishing page and test the display: <br/>
 <img src="images/add img tag"/>
- <img src="images/add img tag"/>
+ <img src="images/Landing Page"/>
 <br />
 <br />
 Create the `process.php` file to handle credential capture: <br/>
