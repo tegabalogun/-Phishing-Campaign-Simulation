@@ -46,7 +46,7 @@ Add the logo URL to the phishing page and test the display: <br/>
 <br />
 <br />
 Create the `process.php` file to handle credential capture: <br/>
-<img src="https://example.com/process-php.png" height="80%" width="80%" alt="Credential Capture Script"/>
+<img src="images/PHP file"/>
 <br />
 <br />
 Send phishing email containing the phishing link and interact with the page: <br/>
