@@ -33,7 +33,7 @@ Landing page of the phishing site, hosted on Azure Virtual Machine: : <br/>
 <br />
 <br />
 Set up a storage account for hosting the logo image used on the phishing page: <br/>
-<img src="https://example.com/storage-setup.png" height="80%" width="80%" alt="Azure Storage Account Setup"/>
+<img src="images/srorage account"/>
 <br />
 <br />
 Enable blob anonymous access in the storage account for public visibility of images: <br/>
