@@ -28,8 +28,8 @@ Configure necessary ports (HTTP, HTTPS, SSH) for remote access:  <br/>
 <img src="images/configure port"/>
 <br />
 <br />
-Install Apache Web Server and upload phishing page code: <br/>
-<img src="https://example.com/apache-install.png" height="80%" width="80%" alt="Installing Apache"/>
+Landing page of the phishing site, hosted on Azure Virtual Machine: : <br/>
+<img src="images/landing page"/>
 <br />
 <br />
 Set up a storage account for hosting the logo image used on the phishing page: <br/>
