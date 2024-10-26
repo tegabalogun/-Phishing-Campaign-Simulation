@@ -37,7 +37,7 @@ Set up a storage account for hosting the logo image used on the phishing page: <
 <br />
 <br />
 Enable blob anonymous access in the storage account for public visibility of images: <br/>
-<img src="https://example.com/enable-blob-access.png" height="80%" width="80%" alt="Enabling Blob Access"/>
+<img src="images/allow blob access"/>
 <br />
 <br />
 Add the logo URL to the phishing page and test the display: <br/>
