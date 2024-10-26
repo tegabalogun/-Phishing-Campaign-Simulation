@@ -25,7 +25,7 @@ Create an Azure Virtual Machine for hosting the phishing site: <br/>
 <br />
 <br />
 Configure necessary ports (HTTP, HTTPS, SSH) for remote access:  <br/>
-<img src="https://example.com/configure-ports.png" height="80%" width="80%" alt="Configuring VM Ports"/>
+<img src="images/configure port"/>
 <br />
 <br />
 Install Apache Web Server and upload phishing page code: <br/>
