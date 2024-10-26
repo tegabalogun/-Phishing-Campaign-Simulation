@@ -50,7 +50,7 @@ Create the `process.php` file to handle credential capture: <br/>
 <br />
 <br />
 Send phishing email containing the phishing link and interact with the page: <br/>
-<img src="https://example.com/phishing-email.png" height="80%" width="80%" alt="Phishing Email"/>
+<img src="images/mail execution"/>
 <br />
 <br />
 Review captured credentials on the virtual machine to observe results: <br/>
